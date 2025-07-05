@@ -1,0 +1,3 @@
+﻿streamlit
+huggingface_hub
+pyCharm (best for python file running)
