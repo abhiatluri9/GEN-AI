@@ -35,3 +35,4 @@ if __name__ == "__main__":
     main()
 
 #it uses the model chatgpt-3.5 turbo latest to work but has limits
+#The API key can be received by OpenAI platform 
